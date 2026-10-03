@@ -22,7 +22,7 @@
 I'm a **System Development Engineer II at Amazon** (Chennai, India) with 6+ years building backend and cloud systems. I work on the large-scale evaluation infrastructure behind **Amazon Q** and **CodeWhisperer**, which runs workloads across 80+ programming languages. Outside work I build open-source developer tools and write about what I learn.
 
 - 🎓 M.Tech in Software Systems, BITS Pilani (WILP)
-- ☁️ AWS Certified Solutions Architect – Associate
+- ☁️ AWS Certified Solutions Architect – Associate · Claude Certified Associate: Foundations
 - ✍️ I write about backend systems, cloud and AI on [DEV.to](https://dev.to/ikarthiknr) and [Medium](https://medium.com/@ikarthiknr)
 - 📬 **Open to interesting conversations**: reach me at [karthik180499@gmail.com](mailto:karthik180499@gmail.com)
 
@@ -86,6 +86,7 @@ I review PRs quickly and I'm happy to help first-timers get started.
 
 ## 🏆 Certifications & competitive programming
 
+- 🤖 **Claude Certified Associate: Foundations (CCAO-F)** – Anthropic (2026)
 - 🟡 **AWS Certified Solutions Architect – Associate** (2024)
 - 🧩 Competitive programming: [Codeforces](https://codeforces.com/profile/ikarthiknr) · [LeetCode](https://leetcode.com/u/karthik180499/)
 
