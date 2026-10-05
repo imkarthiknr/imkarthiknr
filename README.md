@@ -71,6 +71,7 @@ I review PRs quickly and I'm happy to help first-timers get started.
 ## ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI Code Reviewer That Argues With Itself](https://medium.com/@ikarthiknr/i-built-an-ai-code-reviewer-that-argues-with-itself-937670c8fc79?source=rss-f2bb29833c7c------2)
 - [Caching - The Double-Edged Sword of Performance](https://dev.to/ikarthiknr/caching-the-double-edged-sword-of-performance-ljf)
 <!-- BLOG-POST-LIST:END -->
 
